@@ -1,0 +1,18 @@
+MAHLAKA YOUTH CENTRE - SUBMISSION CHECKLIST
+
+[✓] External style.css linked to all pages
+[✓] CSS reset and base style
+[✓] Font family, font size, font weight, line height and letter spacing
+[✓] CSS Grid
+[✓] Flexbox
+[✓] colour, background, border and box-shadow
+[✓] :hover and :focus-visible states
+[✓] Desktop layout
+[✓] Tablet breakpoint
+[✓] Mobile breakpoint
+[✓] Relative units (%, rem, vw, clamp)
+[✓] Responsive image with picture/srcset/sizes
+[✓] Mobile navigation
+[✓] Working local links
+[✓] Contact form validation/demo interaction
+[✓] README with changelog and testing checklist
